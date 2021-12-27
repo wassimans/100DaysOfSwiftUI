@@ -11,4 +11,6 @@ This project is a check-sharing app that calculates how to split a check based o
 ## UnitConverter
 An app that handles unit conversions: users will select an input unit and an output unit, then enter a value, and see the output of the conversion.
 
+TODO: implement a generic function to calculate the unit conversions.
+
 <img src="./Assets/Images/UnitConverter.png" width="300" height="649">
