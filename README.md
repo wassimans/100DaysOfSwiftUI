@@ -6,9 +6,9 @@ This collection contains also apps I built from scratch following 100DaysOfSwfit
 ## WeSplit
 This project is a check-sharing app that calculates how to split a check based on the number of people and how much tip you want to leave.
 
-![alt text](./Assets/Images/WeSplit.png)
+<img src="./Assets/Images/WeSplit.png" width="400" height="866">
 
 ## UnitConverter
 An app that handles unit conversions: users will select an input unit and an output unit, then enter a value, and see the output of the conversion.
 
-![alt text](./Assets/Images/UnitConverter.png)
+<img src="./Assets/Images/UnitConverter.png" width="400" height="866">
