@@ -14,3 +14,8 @@ An app that handles unit conversions: users will select an input unit and an out
 TODO: implement a generic function to calculate the unit conversions.
 
 <img src="./Assets/Images/UnitConverter.png" width="300" height="649">
+
+## GuessTheFlag
+A guessing game that helps users learn some of the many flags of the world.
+
+<img src="./Assets/Images/GuessTheFlag.png" width="300" height="649">
