@@ -44,8 +44,11 @@ struct ContentView: View {
 //                        }
 //                    }
                 }
+                
                 Section("Your ideal bedtime is..") {
                     Text(calculateBedTime())
+                        .font(.largeTitle)
+                        .frame(maxWidth: .infinity, alignment: .center)
                 }
             
             }
