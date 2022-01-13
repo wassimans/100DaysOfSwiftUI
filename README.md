@@ -29,4 +29,4 @@ A small app designed to help coffee drinkers get a good night’s sleep by askin
 
 Once we have those three values, we’ll feed them into Core ML to get a result telling us when they ought to go to bed.
 
-<img src="./Assets/Images/BetterRest.png" width="300" height="649">
+<img src="./Assets/Images/BetterRestApp.png" width="300" height="649">
