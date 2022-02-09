@@ -30,3 +30,8 @@ A small app designed to help coffee drinkers get a good night’s sleep by askin
 Once we have those three values, we’ll feed them into Core ML to get a result telling us when they ought to go to bed.
 
 <img src="./Assets/Images/BetterRestApp.png" width="300" height="649">
+
+## Word Scramble
+The game will show players a random eight-letter word, and ask them to make words out of it. For example, if the starter word is “alarming” they might spell “alarm”, “ring”, “main”, and so on.
+
+<img src="./Assets/Images/WordScramble.png" width="300" height="649">
